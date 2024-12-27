@@ -1,0 +1,12 @@
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZXN0QGV4YW1wbGUuY29tIiwibmFtZSI6IlRlc3QgVXNlciIsInJvbGUiOiJhcGlfdXNlciIsImlhdCI6MTcwMzY5MTIwMCwiZXhwIjoxNzAzNzc3NjAwfQ.mocked_signature",
+    "expires_in": 86400,
+    "user": {
+        "id": "12345",
+        "email": "test@example.com",
+        "role": "api_user",
+        "permissions": ["read", "write"],
+        "county": "dekalb",
+        "last_login": "2024-12-27T12:00:00Z"
+    }
+}

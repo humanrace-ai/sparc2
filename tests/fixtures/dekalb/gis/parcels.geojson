@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tax_id": "15-123-04-005",
+        "address": "123 Dekalb Ave",
+        "owner_name": "John Doe",
+        "assessed_value": 250000.0,
+        "tax_status": "current",
+        "property_class": "R3",
+        "total_due": 3500.50,
+        "sale_date": "2023-06-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3880, 33.7490]
+      }
+    },
+    {
+      "type": "Feature", 
+      "properties": {
+        "tax_id": "15-124-05-006",
+        "address": "456 Peachtree St",
+        "owner_name": "Jane Smith",
+        "assessed_value": 350000.0,
+        "tax_status": "delinquent",
+        "property_class": "C1",
+        "total_due": 4500.75,
+        "sale_date": "2023-07-20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3780, 33.7590]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tax_id": "15-125-06-007",
+        "address": "789 Ponce de Leon Ave",
+        "owner_name": "Bob Wilson",
+        "assessed_value": 450000.0,
+        "tax_status": "current",
+        "property_class": "R2",
+        "total_due": 2800.25,
+        "sale_date": "2023-08-25"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.3680, 33.7690]
+      }
+    }
+  ]
+}

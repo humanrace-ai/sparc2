@@ -1,0 +1,4 @@
+tax_id,address,owner_name,assessed_value,tax_status,property_class,total_due,sale_date,latitude,longitude
+15-123-04-005,123 Dekalb Ave,John Doe,250000.0,current,R3,3500.50,2023-06-15,33.7490,-84.3880
+15-124-05-006,456 Peachtree St,Jane Smith,350000.0,delinquent,C1,4500.75,2023-07-20,33.7590,-84.3780
+15-125-06-007,789 Ponce de Leon Ave,Bob Wilson,450000.0,current,R2,2800.25,2023-08-25,33.7690,-84.3680
